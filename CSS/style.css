@@ -1,0 +1,16 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: sans-serif;
+    box-sizing: border-box;
+}
+.header{
+    display: flex;
+}
+.headerLeft{
+    display: flex;
+}
+.logo{
+    padding: 22px;
+    border-right: 1px solid #ccc;
+}
